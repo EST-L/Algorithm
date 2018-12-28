@@ -1,12 +1,16 @@
 # Library
 
 プログラミングコンテスト(Codeforces, ICPC等)で使用する為のコード断片集です
+Concours de programmation (Codeforces, ICPC) Collection de fragments de code, etc.)
 
 C++11実装です
+Implementation C++11
 
 ## 内容
+## Contenu
 
 ### データ構造
+### Structure de données
 
 - Union Find
 - Fenwick Tree, Fenwick Tree 2D
@@ -18,10 +22,11 @@ C++11実装です
 - Link Cut Tree
 - Sparse Table
 - Radix Heap
-- さいころ
-- 行列
+- さいころ dés
+- 行列 matrice
 
 ### グラフ
+### Graph
 
 - Dijkstra
 - LCA
@@ -29,23 +34,26 @@ C++11実装です
 - Maxflow(Dinic)
 - Mincostflow
 - Lowlink, Bridge
-- 後退解析
+- 後退解析 Backtracking
 - Dominator Tree
 
 ### 数学
+### Mathematiques
 
 - FFT
 
 ### 文字列
+### String 
 
 - KMP, Manachar, Z
 - RollingHash
 - SuffixArray(O(Nlog^2N), O(N)), LCP
 
 ### 幾何
+### Géometrie
 
-- 各種衝突判定
-- 線分アレンジメント
-- 双対グラフ
-- 凸法
-- 最小包含円
+- 各種衝突判定 Divers arrêt de collision
+- 線分アレンジメント Arrangement de lignes
+- 双対グラフ graphique double
+- 凸法 Méthode convexe
+- 最小包含円 cercle d'inclusion minimum
